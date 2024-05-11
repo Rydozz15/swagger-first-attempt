@@ -93,7 +93,7 @@ To get a local copy up and running follow these simple example steps.
 1. Create a S3 bucket
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone git@github.com:Rydozz15/marketplace-back-end.git
    ```
 3. Install PNPM packages
    ```sh
